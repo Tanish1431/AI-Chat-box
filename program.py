@@ -1,3 +1,4 @@
+#TANISH
 import pyautogui
 import pyperclip
 import time
@@ -17,7 +18,7 @@ def is_last_message_from_sender(chat_log, sender_name="Rohan Das"):
 pyautogui.click(1148, 1075)
 time.sleep(1)  # Wait for 1 second to ensure the click is registered
 
-# while True:
+while True:
 
 # Pause for a moment to allow you to switch to the correct window
 time.sleep(2)
